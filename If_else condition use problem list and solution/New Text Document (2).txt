@@ -1,5 +1,0 @@
-1. Odd Even Number Check.
-2. Positive and negetive Number Check
-3. Large Number Find in 3 Number.
-4. Swapping Program Without Third Variable Use.
-5. Leap Year Calculation Program.

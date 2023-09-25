@@ -1,0 +1,2 @@
+1. Odd Even Number Check.
+2.Basic Salary Calculation.
